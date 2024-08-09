@@ -1,0 +1,125 @@
+    1  cmatrix
+    2  pkg install
+    3  pkg install list -install
+    4  exit
+    5  apt list --installed
+    6  mysqld
+    7  java
+    8  git
+    9  apachectl
+   10  sshd
+   11  nano
+   12  mysql
+   13  mysqld
+   14  apt list --installed
+   15  nano
+   16  apt install mysqld
+   17  clear
+   18  apt install mysqld
+   19  apt update
+   20  apt upgrade
+   21  apt install mysqld
+   22  apt install mysql-server
+   23  apt install mysqld
+   24  mysql --version
+   25  exit
+   26  apt install mariadb
+   27  exit
+   28  apt install mysqld
+   29  apt install mariadb
+   30  apt install mysql-server
+   31  exit
+   32  apt update
+   33  apt upgrade
+   34  exit
+   35  apt list
+   36  exit
+   37  apt list
+   38  exit
+   39  apt install gh
+   40  exit
+   41  mkdir note.text
+   42  touch notes.txt
+   43  cat notes.txt
+   44  cd linux_practice
+   45  touch notes.txt
+   46  nano
+   47  cat note.txt
+   48  mkdir linyx_practice
+   49  mv notes linux_practice
+   50  mkdir linux_practice
+   51  mkdir subdir
+   52  mv notes.txt
+   53  mv notes.txt subdir
+   54  ls 
+   55  mv subdir 
+   56  gh auth login
+   57  exit
+   58  gh auth login
+   59  mkdir 235442692_Macasabuang
+   60  cd 235442692_Macasabuang
+   61  git clone https://github.com/Gabriel-lancer/235442692_Macasabuang.git
+   62  mkdir linux_practice
+   63  cd linux_practice
+   64  touch notes.txt
+   65  cat notes.txt
+   66  echo "Hello Linux!" >> notes.txt
+   67  echo "Thisis a practical exam." >>
+   68  echo "Thisis a practical exam." >> notes.txt
+   69  head notes.txt
+   70  tail notes.txt
+   71  mkdir subdir
+   72  mv subdir practice_subdir
+   73  cd practice_subdir
+   74  cp notes.txt practice_subdir
+   75  ls
+   76  cd ..
+   77  ls
+   78  cd practice_subdir
+   79  cp notes.txt practice_subdir
+   80  cp notes.txt linux_practice
+   81  ls
+   82  cd
+   83  cd 235442692_Macasabuang/linux_practice
+   84  ls
+   85  rm notes.txt
+   86  ls 
+   87  touch notes.txt
+   88  cat notes.txt 
+   89  echo "Hello, Linux!" >> notes.txt
+   90  echo "This is a practical exam." >> notes.txt
+   91  head notes.txt
+   92  tail notes.txt
+   93  ls
+   94  cd practice_subdir
+   95  cp notes.txt practice_subdir
+   96  cp notes.txt linux_practice
+   97  date
+   98  uptime
+   99  du -sh ~~
+  100  ssh -V
+  101  php -V
+  102  python3 -V
+  103  apache3 -V
+  104  java -V
+  105  mysql -V
+  106  git checkout -b finalexam
+  107  history > exam_log.txt
+  108  git add . exam_log.txt
+  109  git commit -m "Added exam_log.txt with command history"
+  110  git push origin finalexam
+  111  cd ..
+  112  git init
+  113  git config --global user.email "allangabriel17yahoo@gmail.com"
+  114  git config --global user.name "Gabriel-lancer"
+  115  git add exam_log.txt
+  116  git add . exam_log.txt
+  117  ls
+  118  cd practice_subdir
+  119  ls
+  120  git add . exam_log.txt
+  121  git commit -m "Added exam_log.txt with command history"
+  122  git push origin finalexam
+  123  git push finalexam
+  124  git checkout -b finalexam
+  125  history > exam_log.txt
